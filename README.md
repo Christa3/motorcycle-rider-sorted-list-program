@@ -16,5 +16,5 @@ Provides implementation of member function of the class MotoGPRider.
 ### RiderList.h
 Declares a class to represent a list of motorcycle grand prix riders.
 
-### RiderList.cpp
+### RiderList.cpp 
 Provides implementation of member functions of the class RiderList
